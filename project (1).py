@@ -8,7 +8,7 @@ Original file is located at
 
 ## **PROJECT**
 
-**TITLE: AI Model for Fashion Item Identification**
+**TITLE: Fashion item classification**
 
 GROUP MEMBERS:
 
